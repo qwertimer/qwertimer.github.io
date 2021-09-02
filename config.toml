@@ -5,8 +5,8 @@ title = "Qwertimer's Blog"
 theme = "hugo-tranquilpeak-theme"
 
 
-[permalinks]
-  posts = "/:year/:month/:slug/"
+#[permalinks]
+  #posts = "/:year/:month/:slug/"
 
 
 [taxonomies]
@@ -30,7 +30,7 @@ theme = "hugo-tranquilpeak-theme"
 # ------
 [author]
   name = "Qwertimer"
-  bio = "Super bio with markdown support **COOL**"
+  bio = "Mechatronic Engineer with an interest in Python, Linux, Bash, and AI."
   job = "Mechatronic Engineer"
   location = "Australia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
