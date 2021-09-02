@@ -1,8 +1,47 @@
 baseURL = "http://qwertimer.github.io/"
 languageCode = "en-us"
+defaultContentLanguage = "en-us"
 title = "Qwertimer's Blog"
 theme = "hugo-tranquilpeak-theme"
 
+
+[permalinks]
+  posts = "/:year/:month/:slug/"
+
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+
+# ------
+# Markup
+# ------
+[markup]
+  # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
+# ------
+# Author
+# ------
+[author]
+  name = "Qwertimer"
+  bio = "Super bio with markdown support **COOL**"
+  job = "Mechatronic Engineer"
+  location = "Australia"
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  gravatarEmail = "delltim@gmail.com"
+  # Your profile picture
+  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+  #picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # Your Twitter username without the @. E.g : thibaudlepretre
+  # twitter = "thibaudlepretre"
+  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
+  # googlePlus = "+ThibaudLepretre"
 
 # ------------
 # Sidebar menu
