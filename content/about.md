@@ -5,7 +5,7 @@ draft: false
 ---
 
 Hi i’m Qwertimer, i am a Mechatronics engineer with a research focus on
-Deep Learning and Embedded Systems. I enjoy python, linux, artificial
-Intelligence and bash. You may find posts about all these here. I hope
+Deep Learning and Embedded Systems. I enjoy Python, Linux, Artificial
+Intelligence and Bash. You may find posts about all these here. I hope
 some of these may help you in your endeavours. If you want to reach out 
 to me my github is linked on the side bar.

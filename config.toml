@@ -1,4 +1,4 @@
-baseURL = "http://qwertimer.github.io/"
+baseURL = ""
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Qwertimer's Blog"
