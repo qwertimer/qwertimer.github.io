@@ -181,6 +181,7 @@ theme = "hugo-tranquilpeak-theme"
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
   autoThumbnailImage = true
 
+
   # Your favicon path, default is "/favicon.png"
   #  favicon = "/favicon.png"
 
