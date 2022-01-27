@@ -82,7 +82,7 @@ theme = "hugo-tranquilpeak-theme"
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/qwertimer"
+  url = "qwertimer"
 
 [[menu.misc]]
   weight = 1
