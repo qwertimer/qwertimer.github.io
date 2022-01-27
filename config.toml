@@ -306,7 +306,7 @@ theme = "techfeed-hugo"
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "hugo-tranquilpeak-theme"
+      shortname = "techfeed-hugo"
     [params.comment.gitalk]
       enable = false
       # clientId =
