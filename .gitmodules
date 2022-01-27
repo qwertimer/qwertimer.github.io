@@ -4,3 +4,9 @@
 [submodule "themes/hugo-tranquilpeak-theme"]
 	path = themes/hugo-tranquilpeak-theme
 	url = https://github.com/kakawait/hugo-tranquilpeak-theme
+[submodule "themes/themes/techfeed-hugo"]
+	path = themes/themes/techfeed-hugo
+	url = git@github.com:gethugothemes/techfeed-hugo.git
+[submodule "themes/techfeed-hugo"]
+	path = themes/techfeed-hugo
+	url = git@github.com:gethugothemes/techfeed-hugo.git

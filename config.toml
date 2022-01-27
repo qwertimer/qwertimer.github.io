@@ -2,7 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Qwertimer's Blog"
-theme = "hugo-tranquilpeak-theme"
+theme = "techfeed-hugo"
 
 
 #[permalinks]
